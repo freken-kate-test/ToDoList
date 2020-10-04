@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="logo">App logo</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="agreement_text">By accessing your account, you agree to our
+        <![CDATA[<br><font color=#5B5993>Terms conditions</font>]]> and <![CDATA[<font color=#5B5993>Privacy Policy</font>]]></string>
+    <string name="login">Login</string>
+    <string name="log_in">Log In</string>
+    <string name="error">The password must contain capital letters</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="password_do_not_match">Password do not match</string>
+</resources>

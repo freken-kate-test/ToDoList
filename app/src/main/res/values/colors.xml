@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#BBBBC7</color>
+    <color name="colorPrimaryDark">#5B5993</color>
+    <color name="colorAccent">@color/colorPrimaryDark</color>
+    <color name="colorTextOnPlaceholder">#BBBBC7</color>
+    <color name="colorTextOnPrimary">#1F1C1C</color>
+
+    <color name="mainShadow">#336493A8</color>
+    <color name="blackShadowAlpha">#336493A8</color>
+    <color name="colorError">#DD4A52</color>
+    <color name="colorUnderline">#BBBBC7</color>
+    <color name="background_transparent">#80FFFFFF</color>
+    <color name="progressBackground">#80F2F2F2</color>
+    <color name="selectableButtonColorSelected">#5B5993</color>
+    <color name="selectableButtonColorUnselected">#BBBBC7</color>
+</resources>
